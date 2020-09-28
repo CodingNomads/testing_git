@@ -1,4 +1,4 @@
-# testing_git
+# testing_git - demo
 
 This is a practice repository
 
